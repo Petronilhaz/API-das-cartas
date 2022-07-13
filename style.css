@@ -1,0 +1,15 @@
+button {
+    text-decoration: none;
+    color: black;
+    padding: 20px 65px;
+    margin-top: 30px;
+    background-color: green;
+    border-radius: 5px;
+}
+
+div {
+    height: 314px;
+    width: 226px;
+    background-color: gray;
+    border-radius: 10px;
+}
